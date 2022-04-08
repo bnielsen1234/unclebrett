@@ -1,0 +1,65 @@
+h1{
+    color:tomato;
+    border: 10px;
+    padding: 10px;
+    margin: 20px;
+
+}
+
+.myeducation{
+color:blue;
+font:bold;
+text-decoration:solid;
+font-weight: 900;
+
+}
+.otherstuff{
+color:blue;
+font:bold;
+text-decoration:solid;
+font-weight:900;
+
+}
+.skillsstuff{
+    color:blue;
+    font:bold;
+    text-decoration:solid;
+    font-weight:900;
+}
+.contactinfo{
+color: darkblue;
+font-size: larger;
+font-style: italic;
+font-weight: bold;
+text-align: center;
+}
+.phonenumber{
+color:brown;
+font-size:larger;
+font-style: inherit;
+font-weight: lighter;
+text-decoration: wavy;
+text-align: center;
+
+}
+.email{
+    color:brown;
+    font-size: larger;
+    font-style: inherit;
+    font-weight: lighter;
+    text-decoration: wavy;
+    text-align: center;
+
+}
+.lake{
+    color:tomato;
+    font-size: larger;
+    font-style:italic;
+    font-weight:bolder;
+    text-decoration:solid;
+}
+
+body{
+    background-color:lemonchiffon;
+    
+}

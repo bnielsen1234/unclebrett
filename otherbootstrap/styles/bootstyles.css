@@ -1,0 +1,46 @@
+.tableaustuff{
+color:white;
+font-weight: bolder;
+font-size: larger;
+}
+
+/* .thisdivwontwork{
+background-color: aqua;
+} */
+
+body
+{
+    background-color:black
+
+}
+.thisdivwontwork{
+height:200px;
+background-color:#05618D;
+
+}
+ul{
+text-align: center;
+color: black;
+bottom:auto;
+}
+.tableauPlaceholder{
+height: 1000px;
+}
+h2,h3,h4,h5{
+color:white
+}
+ul{
+color: white;
+font-size: larger;
+font: bolder;
+}
+h1{
+    color: black;
+}
+.nav-link{
+    color:black;
+}
+u{
+    color:white;
+    
+}
